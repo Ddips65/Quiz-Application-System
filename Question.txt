@@ -1,0 +1,3 @@
+q1)The same syntax can be used for iterating  over a list ,tuple, string,set and dictionary.?(True/False)
+q2)Mathematical operations can be performed on a string.(True/False)
+q3)python syntax is case-sensitive?(True/False)
